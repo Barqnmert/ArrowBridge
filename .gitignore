@@ -32,3 +32,8 @@ sysinfo.txt
 
 # Claude Code harness internals
 .claude/
+
+# Environment variables (never commit secrets)
+.env
+.env.local
+.env.*.local
